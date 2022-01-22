@@ -1,0 +1,438 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.image {
+  min-height: 150vh;
+  position: relative;
+}
+
+
+h1{
+  font-family: 'Parisienne', cursive; 
+  text-align: center;
+  font-size: 50pt;
+  font-weight: 100;
+}
+
+h2, p{
+  font-family: 'Crimson Text', serif;
+  text-align: center;
+  font-size: 20pt;
+  font-weight: 100;
+}
+
+/* ----------------------------------------------------------Page One------------------------------------------------------------------*/
+
+#mainTitle, #subTitle{
+  color:#FFFAF7;
+}
+
+#mainTitle{
+  font-size: 70pt;
+}
+
+.intro-container{
+  /* height: 10px; */
+  position: relative;
+  margin-top: 150px;
+}
+
+
+.container-timer {
+  color: #FFFAF7;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Crimson Text', serif;
+}
+
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1em;
+}
+
+li span {
+  display: block;
+  font-size: 4.5rem;
+}
+
+
+@media all and (max-width: 768px) {
+ #headline h1 {
+    font-size: calc(1.5rem * var(--smaller));
+  }
+  
+  li {
+    font-size: calc(1.125rem * var(--smaller));
+  }
+  
+  li span {
+    font-size: calc(3.375rem * var(--smaller));
+  }
+
+  #gmap_canvas{
+    width:75%;
+  }
+
+  #outer-location-page{
+    margin-bottom:60px;
+  
+  }
+  
+#bride-label0 p{
+  margin-top: 70px
+}
+}
+
+@media all and (max-width: 645px) {
+
+  .container-timer {
+    margin-right:35px;
+  }
+
+
+  #Carousel{
+    margin-left:45px;
+  }
+}
+  
+
+
+#headline{
+  font-size:50pt
+}
+
+
+#days,#hours,#minutes,#seconds{
+
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  border-radius: 50%;
+  font-size: 50px;
+  color: #B69278;
+  text-align: center;
+  background: #FFFAF7
+
+}
+
+
+/* Animation */
+@keyframes fadeInUp {
+  from {
+    transform: translate3d(0, 40px, 0);
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadeInUp {
+  from {
+    transform: translate3d(0, 40px, 0);
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+}
+
+.animatedFadeInUp {
+  opacity: 0;
+}
+
+.fadeInUp {
+  opacity: 0;
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+}
+
+
+
+/*---------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+/* ----------------------------------------------------------Page Two------------------------------------------------------------------*/
+
+
+
+#invitation-container{
+  margin-top: 75px;
+  color:#996515;
+  /* height: 300px; */
+}
+
+.invitation-text {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  margin-bottom: 0;
+
+
+}
+
+.invitation-text1, .invitation-text2 {
+ margin-bottom: 5px;
+ text-align: center;
+ font-size: 20px;
+}
+
+#wedding-image{
+  text-align: center;
+}
+
+#bride-label1 p{
+  text-align: center;
+  font-size: 20px;
+  line-height: 80%;
+}
+
+
+#groom-label1 p{
+text-align: center;
+font-size: 20px;
+line-height: 80%;
+}
+
+#groom-label0 p{
+  text-align: center;
+  font-size: 20px;
+  line-height: 80%;
+  margin-top: 30px
+} 
+
+#bride-label0 p{
+  text-align: center;
+  font-size: 20px;
+  line-height: 80%;
+  margin-top: 30px
+}
+
+
+
+
+#bride-name h2 {
+  text-align: center;
+}
+  
+
+#groom-name h2 {
+  text-align: center;
+}
+
+
+#groom-image, #bride-image{
+  border-radius: 50%;
+  max-width: 100%;
+  height: 300px;
+  width:300px;
+  padding: 50px;
+  object-fit: cover;
+}
+
+
+
+/* ----------------------------------------------------------Page Three------------------------------------------------------------------*/
+
+#rundown{
+  text-align: center;
+  color:#FFFAF7;
+  margin-top: 75px;
+
+}
+
+#rundown p{
+  font-size:25px;
+}
+
+#rundown h2{
+  font-size:40px;
+}
+
+/* ----------------------------------------------------------Page Four-----------------------------------------------------------------*/
+
+
+
+#gallery-container{
+  margin-top: 25px;
+}
+
+
+#gallery-title{
+  color:#996515;
+  margin-bottom: 30px;
+  margin-top: 200px;
+}
+
+
+#flex-gallery img {
+  padding: 10px;
+  width:  300px;
+  height: 200px;
+  object-fit: cover;
+
+}
+
+
+#FormTitle{
+  text-align: center;
+  color:#FFFAF7;
+  margin-bottom: 20px;
+} 
+
+.testimonypage{
+  margin-top: 150px;
+}
+
+
+#MapTitle{
+  font-size: 40px;
+  font-family: 'Crimson Text', serif;
+  text-align:center;
+  color:#FFFAF7;
+  margin-bottom: 20px;
+}
+
+#MapAddress{
+  font-size: 15px;
+  text-align:center;
+  font-family: 'Crimson Text', serif;
+  color:#FFFAF7;
+  
+}
+
+.mapouter{
+  text-align: center;
+  margin-top: 20px;
+}
+
+#RSVPTitle{
+  margin-top: 150px;
+}
+
+#RSVPTitle, #RSVPSubTitle, #RSVPSubTitle2{
+  text-align: center;
+  color:#996515;
+}
+
+#RSVPSubTitle, #RSVPSubTitle2{
+  line-height: 80%;
+}
+
+#RSVPSubTitle2{
+  font-size:15pt
+}
+
+.overlay {
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0,0,0,.7);
+}
+
+
+.overlay__wrapper{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.overlay__spinner {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.chatBox{
+
+  overflow-y: scroll;
+  height: 600px;
+  background: rgba(0,0,0,.3);
+}
+
+#outer-location-page{
+
+  height: 650px;
+  background-color:#FFFAF7;
+
+}
+
+#location{
+  margin-bottom: 50px;
+}
+
+#name-chat{
+  font-size: 20px;
+  color:#FFFAF7;
+  margin-left: 30px;
+  margin-bottom: 0;
+
+}
+
+#chat-chat{
+  font-size: 17px;
+  color:#FFFAF7;
+  text-align: left;
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+
+
+#chat-box-content{
+  margin-top: 30px;
+}
+
+
+.btn-link, .btn-location {
+  
+    background-color: #FFFAF7;
+    color: #996515;
+    text-decoration: none;
+}
+
+.btn-rsvp, .btn-testimony{
+  background-color: #996515;
+  color: #FFFAF7;
+}
+
+#rsvpbutton{
+  margin-bottom: 50px;
+}
+
+
+#inputNama, #inputHP, #inputEmail {
+  margin-bottom:10px;
+}
+
+#bismillah{
+  font-size: 30pt;
+}
+
+
+
+
