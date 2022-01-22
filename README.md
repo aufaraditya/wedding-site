@@ -66,9 +66,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 Web App already Deployed using Firebase here, see for live Demo [https://puti-athhar.web.app/](https://puti-athhar.web.app/)
 
+
+
+
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Additional Feature
+Web app developed using React, react-parallax, and Firebase for Chat and RSVP Sections. See Package.json for more detail module or feature used.
+
+
 
 
 
