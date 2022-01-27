@@ -69,9 +69,9 @@ Web App already Deployed using Firebase here, see for live Demo [https://puti-at
 ![Screenshot 2022-01-22 191634](https://user-images.githubusercontent.com/5984684/150638365-79ceb4ae-c6e6-4a37-8822-c36fc9903302.jpg)
 ![Screenshot 2022-01-22 191702](https://user-images.githubusercontent.com/5984684/150638368-26cd6f3a-0b73-462f-953e-4b17bc669788.jpg)
 ![Screenshot 2022-01-22 191729](https://user-images.githubusercontent.com/5984684/150638374-6f3492f4-1835-4bb3-83bb-7fb233f6aff7.jpg)
-![Screenshot 2022-01-22 191754](https://user-images.githubusercontent.com/598
+![Screenshot 2022-01-22 191754](https://user-images.githubusercontent.com/5984684/150638377-a179b3db-85f9-471a-91fd-049765261bf4.jpg)
 ![Screenshot 2022-01-22 191815](https://user-images.githubusercontent.com/5984684/150638379-bfe1653d-9513-4fd8-a1f5-0fb17ce3d7a1.jpg)
-4684/150638377-a179b3db-85f9-471a-91fd-049765261bf4.jpg)
+
 
 
 
