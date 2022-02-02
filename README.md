@@ -54,11 +54,11 @@ Web App already Deployed using Firebase here, see for live Demo [https://puti-at
 ![Screenshot 2022-01-22 191754](https://user-images.githubusercontent.com/5984684/150638377-a179b3db-85f9-471a-91fd-049765261bf4.jpg)
 ![Screenshot 2022-01-22 191815](https://user-images.githubusercontent.com/5984684/150638379-bfe1653d-9513-4fd8-a1f5-0fb17ce3d7a1.jpg)
 
-# Steps for Deploying React App to Firebase
+## Steps for Deploying React App to Firebase
 
-### `firebase init`
+`firebase init`
 or 
-### `firebase login`
+`firebase login`
 
 then choose `build` as the public directory (for React App)
 
