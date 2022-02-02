@@ -43,7 +43,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# About Pokepedia
+# About Wedding-Site
 
 Simple Wedding Web App developed using React, react-parallax, and Firebase for Chat and RSVP Sections. See Package.json for more detail module or feature used.
 Web App already Deployed using Firebase here, see for live Demo [https://puti-athhar.web.app/](https://puti-athhar.web.app/)
