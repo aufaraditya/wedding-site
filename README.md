@@ -39,31 +39,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### `npm run build` fails to minify
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# About Pokepedia
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Simple Wedding Web App developed using React, react-parallax, and Firebase for Chat and RSVP Sections. See Package.json for more detail module or feature used.
 Web App already Deployed using Firebase here, see for live Demo [https://puti-athhar.web.app/](https://puti-athhar.web.app/)
 
 ![Screenshot 2022-01-22 191634](https://user-images.githubusercontent.com/5984684/150638365-79ceb4ae-c6e6-4a37-8822-c36fc9903302.jpg)
@@ -71,19 +53,6 @@ Web App already Deployed using Firebase here, see for live Demo [https://puti-at
 ![Screenshot 2022-01-22 191729](https://user-images.githubusercontent.com/5984684/150638374-6f3492f4-1835-4bb3-83bb-7fb233f6aff7.jpg)
 ![Screenshot 2022-01-22 191754](https://user-images.githubusercontent.com/5984684/150638377-a179b3db-85f9-471a-91fd-049765261bf4.jpg)
 ![Screenshot 2022-01-22 191815](https://user-images.githubusercontent.com/5984684/150638379-bfe1653d-9513-4fd8-a1f5-0fb17ce3d7a1.jpg)
-
-
-
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-## Additional Feature
-Web app developed using React, react-parallax, and Firebase for Chat and RSVP Sections. See Package.json for more detail module or feature used.
-
-
 
 
 
